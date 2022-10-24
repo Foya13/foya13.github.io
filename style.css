@@ -10,7 +10,7 @@ body {
     flex-direction: row-reverse;
     background-color: white ;
     width: 1200px;
-    /*height:1320px;*/
+    height:1320px;
     margin: 0 auto;
 }
 
@@ -20,7 +20,6 @@ body {
     background-color: white;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 90px 90px 90px 90px;
-    height: 1320px;
 }
 
 /* about user */
